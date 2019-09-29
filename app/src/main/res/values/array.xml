@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study_view_spinner_values">
+        <item>pending pickup</item>
+        <item>picked-up</item>
+        <item>delivered</item>
+    </string-array>
+
+</resources>
